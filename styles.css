@@ -1,9 +1,5 @@
 body {
-<<<<<<< Updated upstream
-    background-image: url(/fondo.jpg)
-=======
     background-color: rgb(255, 255, 165);
->>>>>>> Stashed changes
 }
 
 .image{
@@ -20,18 +16,4 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-<<<<<<< Updated upstream
 }
-h1{
-    text-align:  center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-.container{
-    text-align: center;
-    background-color: rgb(216, 215, 215);
-    margin: 0px 15px 0px 15px;
-}
-=======
-}
->>>>>>> Stashed changes
