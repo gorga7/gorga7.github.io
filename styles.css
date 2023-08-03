@@ -1,20 +1,26 @@
 body {
+<<<<<<< Updated upstream
     background-image: url(/fondo.jpg)
+=======
+    background-color: rgb(255, 255, 165);
+>>>>>>> Stashed changes
 }
 
 .image{
+    border: 5px solid green;
     border-radius: 10px;
     height: 400px;
 }
 
 .link-button {
     text-decoration: none;
-    color:white;
+    color: black;
     border: 1px solid gray;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+<<<<<<< Updated upstream
 }
 h1{
     text-align:  center;
@@ -26,3 +32,6 @@ h1{
     background-color: rgb(216, 215, 215);
     margin: 0px 15px 0px 15px;
 }
+=======
+}
+>>>>>>> Stashed changes
