@@ -6,8 +6,15 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    
 }
 
+h1{
+    color:brown;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .link-button {
     text-decoration: none;
     color: black;
