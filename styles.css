@@ -24,4 +24,5 @@ h1{
 .container{
     text-align: center;
     background-color: rgb(216, 215, 215);
+    margin: 0px 15px 0px 15px;
 }
