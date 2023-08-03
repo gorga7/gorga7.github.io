@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-image: url(https://img.freepik.com/vector-premium/tecnologia-abstracta-almacenamiento-datos-nube-linea-comunicacion-digital-tecnologia-datos-red-linea-colorido-telon-fondo-ilustracion-perfecta-telon-fondo-papel-tapiz-fondo-banner_565280-1015.jpg?w=2000);
 }
+
 
 .image{
     border: 5px solid green;
@@ -16,4 +17,15 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+a{
+    border-radius: 20px;
+    border: 3px solid rgb(150, 144, 144);
+    text-decoration: none;
+    color: black;
+    box-shadow: 5px 7px;
+    padding: 2px;
+}
+a:hover{
+    color: blue;
 }
