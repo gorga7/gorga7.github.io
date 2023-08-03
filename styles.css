@@ -9,6 +9,12 @@ body {
     
 }
 
+h1{
+    color:brown;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .link-button {
     text-decoration: none;
     color: black;
