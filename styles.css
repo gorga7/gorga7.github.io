@@ -6,6 +6,8 @@ body {
     border: 5px solid;
     border-radius: 10px;
     height: 400px;
+    display:block;
+    margin:auto;
     
 }
 
